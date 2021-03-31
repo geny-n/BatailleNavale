@@ -1,0 +1,5 @@
+SDL_MOUSEBUTTONDOWN, button 1 clicks 1
+SDL_MOUSEBUTTONUP, button 1 clicks 1
+SDL_MOUSEBUTTONDOWN, button 1 clicks 1
+SDL_MOUSEBUTTONUP, button 1 clicks 1
+Received SDL_QUIT - bye!
